@@ -1,9 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
-import { useState } from 'react';
-import { Button, ScrollView, StyleSheet, Text, TextInput, View, TouchableOpacity, FlatList } from 'react-native';
+import { Text, View } from 'react-native';
 import Tabs from './new/tabs';
-//import MyDrawer from './route/drawer';
-//import 'react-native-gesture-handler';
 
 
 export default function App() {
